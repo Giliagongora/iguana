@@ -155,17 +155,18 @@ footer p {
 }
 
 footer p a {
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 300;
   font-size: 1.6rem;
 }
 
 @media only screen and (max-width: 850px) {
-  section.desc-section article img{
+  section.desc-section article img {
     display: block;
     margin: auto;
-  }section.desc-section article div.text-desc{
+  }
+  section.desc-section article div.text-desc {
     margin-bottom: 30px;
   }
 }
